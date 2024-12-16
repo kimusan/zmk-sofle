@@ -76,8 +76,8 @@ layers:
   - {t: Sft+6, s: Sft+^}
   - {t: Sft+7, s: Sft+&}
   - {t: Sft+8, s: Sft+*}
-  - Sft+F9
-  - {t: Sft+0, s: Sft+)}
+  - {t: Sft+-, s: Sft+_}
+  - +
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
