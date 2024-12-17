@@ -40,7 +40,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
-  - {t: <, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: NUBS, h: '$$mdi:apple-keyboard-control$$'}
   - Z
   - X
   - C
@@ -76,7 +76,7 @@ layers:
   - {t: Sft+6, s: Sft+^}
   - {t: Sft+7, s: Sft+&}
   - {t: Sft+8, s: Sft+*}
-  - {t: Sft+-, s: Sft+_}
+  - {t: '-', s: _}
   - {t: '=', s: +}
   - $$mdi:backspace-reverse-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
